@@ -15,6 +15,10 @@ key.
 
 Please access the published app at the following [link](https://rob-kravec.shinyapps.io/news).
 
+## Acknowledgements
+
+This project was completed as part of STA 523 (Statistical Programming) at Duke, taught by Professor Shawn Santo
+
 ## References
 
 - [Discussion board](https://groups.google.com/g/shiny-discuss/c/FyMGa2R_Mgs) with advice on how to suppress R Shiny errors
