@@ -1,0 +1,10 @@
+name: news
+title:
+username:
+account: rob-kravec
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3076634
+bundleId: 3772213
+url: https://rob-kravec.shinyapps.io/news/
+when: 1603401557.00664
